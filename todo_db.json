@@ -1,0 +1,144 @@
+{
+  "tasks": [
+    {
+      "id": "d01396e5-81da-4989-b5fb-aa55b60be0b1",
+      "title": "Complete AI Module Assignment",
+      "description": "Finish and submit the \u201cPlaying with AI\u201d Module 4 assignment.",
+      "created_at": "2025-09-28T16:52:01.167888",
+      "due": "2025-09-30T00:00:00",
+      "priority": "High",
+      "tags": [
+        "school",
+        "coursework"
+      ],
+      "status": "In Progress",
+      "completed_at": null
+    },
+    {
+      "id": "4ca49655-0c46-4d37-87bd-e22caae6309c",
+      "title": "Review Python Basics Notes",
+      "description": "Revise OOP, functions, and data structures before next class.",
+      "created_at": "2025-09-28T16:53:11.371876",
+      "due": "2025-09-29T00:00:00",
+      "priority": "Medium",
+      "tags": [
+        "study",
+        "revision"
+      ],
+      "status": "To Do",
+      "completed_at": null
+    },
+    {
+      "id": "4055ce6e-8d1e-4757-8a6c-23d1b25a098c",
+      "title": "Prepare Slide Deck for Presentation",
+      "description": "Design 8\u201310 slides summarizing AI tool experimentation.",
+      "created_at": "2025-09-28T16:54:00.040702",
+      "due": "2025-09-29T00:00:00",
+      "priority": "High",
+      "tags": [
+        "presentation",
+        "project"
+      ],
+      "status": "In Progress",
+      "completed_at": null
+    },
+    {
+      "id": "d3d11e44-88bc-425b-9412-6c0d26b5a158",
+      "title": "Record 5-Minute Project Video",
+      "description": "Walk through the slide deck and explain results.",
+      "created_at": "2025-09-28T16:54:48.260213",
+      "due": "2025-09-30T00:00:00",
+      "priority": "Medium",
+      "tags": [
+        "video",
+        "project"
+      ],
+      "status": "To Do",
+      "completed_at": null
+    },
+    {
+      "id": "fe40c910-e967-466e-8fcd-75590274579d",
+      "title": "Provide Peer Review Feedback",
+      "description": "Watch two classmates\u2019 videos and submit feedback.",
+      "created_at": "2025-09-28T16:56:11.978075",
+      "due": "2025-09-30T00:00:00",
+      "priority": "Low",
+      "tags": [
+        "review",
+        "coursework"
+      ],
+      "status": "To Do",
+      "completed_at": null
+    },
+    {
+      "id": "d1b7e521-fecf-4e31-a5ac-2159c3950714",
+      "title": "Complete AI Module Assignment tomorrow",
+      "description": "",
+      "created_at": "2025-09-28T16:56:35.964983",
+      "due": "2025-09-29T00:00:00",
+      "priority": "High",
+      "tags": [
+        "school",
+        "coursework"
+      ],
+      "status": "To Do",
+      "completed_at": null
+    },
+    {
+      "id": "a2447507-ce70-4e05-8c30-a097c856401b",
+      "title": "Install and Configure AI Tools",
+      "description": "Successfully set up GitHub Copilot and ChatGPT for the assignment.",
+      "created_at": "2025-09-28T16:57:51.870249",
+      "due": "2025-09-20T00:00:00",
+      "priority": "Medium",
+      "tags": [
+        "setup",
+        "tools"
+      ],
+      "status": "Done",
+      "completed_at": "2025-09-28T16:57:51.870222"
+    },
+    {
+      "id": "31981a1a-91af-4bc1-90d4-42c6c6901161",
+      "title": "Draft Initial Code for To-Do App",
+      "description": "Built the base UI and structure for the Tkinter To-Do application.",
+      "created_at": "2025-09-28T16:58:24.454082",
+      "due": "2025-09-22T00:00:00",
+      "priority": "Medium",
+      "tags": [
+        "coding",
+        "project"
+      ],
+      "status": "Done",
+      "completed_at": "2025-09-28T16:58:24.454056"
+    },
+    {
+      "id": "f9ed9af5-dd99-4339-bb0b-50b7562cb63e",
+      "title": "Explore AI Experiment Ideas",
+      "description": "Brainstormed possible project ideas using AI tools.",
+      "created_at": "2025-09-28T16:59:01.313327",
+      "due": "2025-09-23T00:00:00",
+      "priority": "High",
+      "tags": [
+        "brainstorming",
+        "coursework"
+      ],
+      "status": "Done",
+      "completed_at": "2025-09-28T16:59:01.313302"
+    },
+    {
+      "id": "ad311b57-f432-4cc2-9dc2-e44044fbd91c",
+      "title": "Submit Literature Review Draft",
+      "description": "Write and submit the initial literature review for the AI tools report.",
+      "created_at": "2025-09-28T17:00:47.412389",
+      "due": "2025-09-20T00:00:00",
+      "priority": "High",
+      "tags": [
+        "research",
+        "writing"
+      ],
+      "status": "To Do",
+      "completed_at": null
+    }
+  ]
+}
